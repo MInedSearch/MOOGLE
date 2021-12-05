@@ -1,0 +1,71 @@
+.logo{
+	padding-top: 20px;
+	height: 85px;
+	width:290px;
+	pointer-events: none;
+}
+.i{
+	background-color: #141414;
+	margin-top: 20px;
+	border-radius: 20px;
+	border: 1px solid gray;
+	outline: none;
+	font-size: 20px;
+	padding-left: 10px;
+	box-shadow: 2px 2px 4px -2px gray;
+	font-family: sans-serif;
+	color: white;
+	padding-top: 20px;
+}
+.input{
+	background-color: #141414;
+	margin-top: 20px;
+	height: 10000px;
+	width: 90%;
+	border-radius: 20px;
+	border: 1px solid gray;
+	outline: none;
+	font-size: 20px;
+	padding-left: 10px;
+	box-shadow: 2px 2px 4px -2px gray;
+	font-family: sans-serif;
+	color: white;
+	padding-top: 20px;
+}
+.btn{
+	border:  none;
+	background-color: #313131;
+	height: 40px;
+	width: 125px;
+	color: #cfcfcf;;
+	border-radius: 10px;
+    margin-right: 10px;
+      cursor: pointer;
+}
+.btn1{
+	/*音声認識ボタン*/
+	/*float: left;*/
+	border:none;
+	background-color: #403c44;
+	height: 40px;
+	width: 40px;
+	/*border-radius: 10px;*/
+    margin-right: 10px;
+      cursor: pointer;
+}
+.white{
+	background-color: white;
+}
+.black{
+	background-color: black;
+}
+
+a{
+	color:  #403c44;
+	pointer-events: none;
+}
+.boice{
+	height: 30px;
+	width: 30px;
+	vertical-align: center;
+}
